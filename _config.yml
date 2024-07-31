@@ -1,6 +1,6 @@
 title: Koali
 logo: assets/images/SuperstoreSales.PNG
 show_downloads: True
-remote theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jerky11-remote-theme
+- jekyll-remote-theme
